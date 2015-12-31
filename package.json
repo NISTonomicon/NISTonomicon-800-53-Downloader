@@ -1,0 +1,27 @@
+{
+  "name": "nistonomicon-control-downloader",
+  "version": "0.0.1",
+  "description": "this downloads and converts the NIST 800-53 Security controls to a consumable format by NISTonomicon",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NISTonomicon/NISTonomicon-800-53-Downloader"
+  },
+  "keywords": [
+    "800-53",
+    "NIST",
+    "security-control"
+  ],
+  "author": "hortinstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NISTonomicon/NISTonomicon-800-53-Downloader/issues"
+  },
+  "homepage": "https://github.com/NISTonomicon/NISTonomicon-800-53-Downloader"
+}
